@@ -1,5 +1,7 @@
 require 'rubygems'
 require 'active_support'
+require 'active_support/inflector'
+require 'active_support/core_ext/string'
 require 'uri'
 require 'pp'
 require 'active_cim/connector_adapter'
